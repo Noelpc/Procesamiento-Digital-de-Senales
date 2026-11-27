@@ -1,0 +1,24 @@
+overlap=True  FC=0.02 fc= 0.44 kHz  bytes=   75582 CR= 18.67 SNR= 11.28 dB
+overlap=True  FC=0.05 fc= 1.10 kHz  bytes=  156350 CR=  9.03 SNR= 16.90 dB
+overlap=True  FC=0.10 fc= 2.21 kHz  bytes=  277631 CR=  5.08 SNR= 19.81 dB
+overlap=True  FC=0.15 fc= 3.31 kHz  bytes=  382185 CR=  3.69 SNR= 21.41 dB
+overlap=True  FC=0.20 fc= 4.41 kHz  bytes=  482862 CR=  2.92 SNR= 22.66 dB
+overlap=True  FC=0.25 fc= 5.51 kHz  bytes=  579245 CR=  2.44 SNR= 24.00 dB
+overlap=True  FC=0.30 fc= 6.62 kHz  bytes=  667684 CR=  2.11 SNR= 25.22 dB
+overlap=True  FC=0.40 fc= 8.82 kHz  bytes=  840147 CR=  1.68 SNR= 28.31 dB
+overlap=True  FC=0.50 fc=11.03 kHz  bytes= 1004502 CR=  1.40 SNR= 32.07 dB
+overlap=True  FC=0.60 fc=13.23 kHz  bytes= 1150008 CR=  1.23 SNR= 36.78 dB
+overlap=True  FC=0.80 fc=17.64 kHz  bytes= 1293393 CR=  1.09 SNR= 68.59 dB
+overlap=True  FC=1.00 fc=22.05 kHz  bytes= 1296651 CR=  1.09 SNR= 72.43 dB
+overlap=False FC=0.02 fc= 0.44 kHz  bytes=   39256 CR= 35.95 SNR= 10.93 dB
+overlap=False FC=0.05 fc= 1.10 kHz  bytes=   81550 CR= 17.30 SNR= 16.84 dB
+overlap=False FC=0.10 fc= 2.21 kHz  bytes=  146353 CR=  9.64 SNR= 19.80 dB
+overlap=False FC=0.15 fc= 3.31 kHz  bytes=  202545 CR=  6.97 SNR= 21.42 dB
+overlap=False FC=0.20 fc= 4.41 kHz  bytes=  256217 CR=  5.51 SNR= 22.66 dB
+overlap=False FC=0.25 fc= 5.51 kHz  bytes=  307332 CR=  4.59 SNR= 24.00 dB
+overlap=False FC=0.30 fc= 6.62 kHz  bytes=  354493 CR=  3.98 SNR= 25.23 dB
+overlap=False FC=0.40 fc= 8.82 kHz  bytes=  446488 CR=  3.16 SNR= 28.29 dB
+overlap=False FC=0.50 fc=11.03 kHz  bytes=  534395 CR=  2.64 SNR= 32.01 dB
+overlap=False FC=0.60 fc=13.23 kHz  bytes=  613976 CR=  2.30 SNR= 36.79 dB
+overlap=False FC=0.80 fc=17.64 kHz  bytes=  723269 CR=  1.95 SNR= 65.76 dB
+overlap=False FC=1.00 fc=22.05 kHz  bytes=  737800 CR=  1.91 SNR= 72.37 dB
